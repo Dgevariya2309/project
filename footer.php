@@ -25,7 +25,7 @@
                     </li>
                     <li class="about-footer">
                         The majority of independent properties are losing out on a lot of business for one
-                        very simple reason: their hotel websites are poorly designed.
+                        very simple reason: their hotel websites are poorly designed.also for view
 
                     </li>
                 </ul>
