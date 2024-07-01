@@ -13,7 +13,7 @@
             <div class="carousel-item active">
                 <img class="d-block carousel-image w-100" src="img/c1.jpg" alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Welcome to Hotel Management System</h5>
+                    <h5>Welcome to Hotel System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
                         comfortable beds covered with special bedspreads that get made by themselves, and bathrooms that
                         are clean and shiny.</p>
