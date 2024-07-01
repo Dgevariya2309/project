@@ -71,7 +71,7 @@
                     <h5>Welcome to Hotel Management System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
                         comfortable beds covered with special bedspreads that get made by themselves, and bathrooms that
-                        are clean and shiny.</p>
+                        are clean and shiny  also very shiny.</p>
                     <p class="p">Hotel rooms are known for having terraces with <span class="span">views that are
                             perfect for enjoyment</span> views that are perfect for enjoyment.</p>
                 </div>
