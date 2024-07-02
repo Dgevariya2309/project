@@ -1,7 +1,7 @@
 <?php
 include 'header.php';
 include 'home.php';
-include 'homerooms.php';
+
 include 'connection.php';
 ?>
 <!DOCTYPE html>
@@ -29,28 +29,7 @@ include 'connection.php';
 
 </head>
 
-<body>
-    <section id="booking-hall">
-        <a href="food.php"><img class="img-fluid hall-img" src="img/banquet.jpg" alt="hall" /></a>
-        <div class="hall-div">
-            <h1 class="h1">Best Banquet Hall For Your Party</h1>
-            <button id="book-btn"><a href="bookinghall.php"> Book Now</a></button>
 
-        </div>
-
-    </section>
-
-
-
-    <script>
-    function forgotPopup() {
-        document.getElementById('login-popup').style.display = "none";
-        document.getElementById('forgot-popup').style.display = "flex";
-    }
-    </script>
-
-
-</body>
 
 </html>
 <?php
