@@ -16,7 +16,7 @@
             </g>
         </svg>
     </div>
-    <footer>
+    <footer style="font-family:'Baloo 2', cursive; font-size: 21px">
         <div class="content ">
             <div class="link-boxes">
                 <ul class="boxf">
@@ -25,7 +25,7 @@
                     </li>
                     <li class="about-footer">
                         The majority of independent properties are losing out on a lot of business for one
-                        very simple reason: their hotel websites are poorly designed.also for view
+                        very simple reason: their hotel websites are poorly designed.
 
                     </li>
                 </ul>
