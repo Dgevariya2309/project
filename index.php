@@ -1,8 +1,5 @@
 <?php
 include 'header.php';
-include 'home.php';
-
-include 'connection.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,12 +25,7 @@ include 'connection.php';
     </script>
 
 </head>
-
-
-
 </html>
-<?php
-include 'footer.php';
-?>
+
 
 <!-- TODO -->
