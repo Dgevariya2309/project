@@ -1,5 +1,7 @@
 <?php
 include 'header.php';
+include 'home.php';
+include 'connection.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +27,18 @@ include 'header.php';
     </script>
 
 </head>
-</html>
 
+<body>
+    <script>
+    function forgotPopup() {
+        document.getElementById('login-popup').style.display = "none";
+        document.getElementById('forgot-popup').style.display = "flex";
+    }
+    </script>
+
+
+</body>
+
+</html>
 
 <!-- TODO -->
