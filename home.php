@@ -1,6 +1,6 @@
 <body>
 
-    <div id="carouselExampleIndicators" class="carousel slide box-shadow-all" data-interval="5000" data-ride="carousel">
+    <div id="carouselExampleIndicators" class="carousel slide box-shadow-all" data-interval="4000" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block carousel-image w-100" src="img/c3.jpg" alt="Second slide">
+                <img class="d-block carousel-image w-100" src="img/c3.jpg" alt="Third slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Welcome to Hotel Management System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
@@ -44,7 +44,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block carousel-image w-100" src="img/c4.jpg" alt="Second slide">
+                <img class="d-block carousel-image w-100" src="img/c4.jpg" alt="Forth slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Welcome to Hotel Management System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
@@ -55,7 +55,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block carousel-image w-100" src="img/c5.jpg" alt="Second slide">
+                <img class="d-block carousel-image w-100" src="img/c5.jpg" alt="Fifth slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Welcome to Hotel Management System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block carousel-image w-100" src="img/c6.jpg" alt="Third slide">
+                <img class="d-block carousel-image w-100" src="img/c6.jpg" alt="Sixth slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Welcome to Hotel Management System</h5>
                     <p>Hotel rooms have <span class="span">everything you need for a pleasant stay</span> : large
