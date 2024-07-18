@@ -1,6 +1,10 @@
 <?php
 include 'header.php';
 include 'home.php';
+include 'login.php';
+include 'register.php';
+include 'homerooms.php';
+include 'footer.php';
 include 'connection.php';
 ?>
 <!DOCTYPE html>
